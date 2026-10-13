@@ -15,6 +15,15 @@ window.STUDY_HUB_CATALOG = {
       accent: "mint",
       chapters: [
         {
+          id: "chapter-01",
+          label: "Chapter 1",
+          title: "Decision Making, DSS, BI and Analytics",
+          titleAr: "اتخاذ القرار ونظم دعمه وذكاء الأعمال والتحليلات",
+          description: "شرح ثنائي اللغة لـ31 شريحة، 8 رسومات تعليمية، بطاقات و53 سؤالًا تدريبيًا",
+          path: "courses/is366/chapter-01/index.html",
+          slides: 31
+        },
+        {
           id: "chapter-02",
           label: "Chapter 2",
           title: "Artificial Intelligence",
@@ -27,3 +36,4 @@ window.STUDY_HUB_CATALOG = {
     }
   ]
 };
+
